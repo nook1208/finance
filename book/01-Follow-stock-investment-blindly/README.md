@@ -3,3 +3,6 @@
 
 ## 2021-03-01 Monday
 book 89~104p
+
+## 2021-03-02 Tuesday
+e-book 211~243p
