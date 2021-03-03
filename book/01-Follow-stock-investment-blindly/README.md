@@ -6,3 +6,6 @@ book 89~104p
 
 ## 2021-03-02 Tuesday
 e-book 211~243p
+
+## 2021-03-03 Wednesday
+book 118~123p
