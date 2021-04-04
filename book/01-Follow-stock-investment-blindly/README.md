@@ -21,3 +21,7 @@ e-book 402~621p
 
 ## 2021-03-22 ~ 2021-03-28
 e-book 622~725p
+
+## Week 1st of Apr
+review e-book 377-463p, 631-649p
+
