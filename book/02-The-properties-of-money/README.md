@@ -3,3 +3,6 @@
 
 ## Week 1st of Apr
 ebook 1~123p
+
+## Week 2nd of April
+ebook 124p ~ 419p
