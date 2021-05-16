@@ -2,3 +2,6 @@
 
 ## Week 2nd of May
 ebook 43p ~ 180p
+
+## Week 3rd of May
+ebook 181p ~ 326p
