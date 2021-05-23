@@ -12,3 +12,6 @@ ebook 286p ~ 416p
 
 ## Week 2nd of May
 ebook 417p ~ 441p
+
+## Week 4th of May
+re-read ebook 226 ~ 253p, 405p ~ 435p
