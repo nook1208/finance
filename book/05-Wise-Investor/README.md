@@ -5,3 +5,6 @@ ebook 1p ~ 30p
 
 ## Week 5th of May
 ebook 31p ~157p
+
+## Week 1st of June
+ebook 158p ~ 214p
