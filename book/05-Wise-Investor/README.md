@@ -8,3 +8,6 @@ ebook 31p ~157p
 
 ## Week 1st of June
 ebook 158p ~ 214p
+
+## Week 2nd of June
+ebook 215p ~ 233p
