@@ -2,3 +2,6 @@
 
 ## Week 2nd of June
 ebook 1p ~ 75p
+
+## Week 3rd of June
+ebook 76p ~ 102p
