@@ -11,3 +11,6 @@ ebook 103p ~ 168p
 
 ## Week 1st of July
 ebook 169p ~ 265p
+
+## Week 2nd of July
+ebook 266p ~ 396p
